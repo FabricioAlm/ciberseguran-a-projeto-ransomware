@@ -1,0 +1,2 @@
+Documento legivel para leitura sem criptografia.
+Projeto desenvolvido no programa Cibersegurança do Santander / DIO na linguagem python.
