@@ -9,5 +9,5 @@ Segundo passo: Preencher os arquivos com os textos confome arquivos do projeto.
 Terceiro passo: Verificar ou atualizar a biblioteca do python verificando se há suporte para "pyaes".
 Quarto passo: Executar o comando no terminal "python encripter.py" para criptografar e "python decrypter.py" para descriptografar.
 
-#Resultado
+# Resultado
 Arquivo criptografado "teste.txt.ransomwaretroll".
